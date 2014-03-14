@@ -2,6 +2,7 @@
     "require": {
         "phpunit/phpunit": "*",
         "squizlabs/php_codesniffer": "*",
-        "phploc/phploc": "*"
+        "phploc/phploc": "*",
+        "phing/phing": "*"
     }
 }

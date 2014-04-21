@@ -4,6 +4,8 @@
         "squizlabs/php_codesniffer": "*",
         "phploc/phploc": "*",
         "phing/phing": "*",
-        "phpmd/phpmd": "*"
+        "phpmd/phpmd": "*",
+        "sebastian/phpcpd": "*",
+        "jakub-onderka/php-parallel-lint": "dev-master"
     }
 }
